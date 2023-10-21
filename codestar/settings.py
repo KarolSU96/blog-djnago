@@ -34,7 +34,7 @@ DEBUG = False
 X_FRAME_OPTIONS = 'SAMEORIGIN'
 
 ALLOWED_HOSTS = [
-    "8000-karolsu96-blog-djnago-wtcmhbz47k.us2.codeanyapp.com", "localhost"]
+     "blog-django-bacon-b2610180ba56.herokuapp.com", "localhost"]
 
 CSRF_TRUSTED_ORIGINS = [ 'https://8000-karolsu96-blog-djnago-wtcmhbz47k.us2.codeanyapp.com']
 
